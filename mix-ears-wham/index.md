@@ -11,15 +11,36 @@ Here, we report signals with __2__ channels, in order for the listener to assess
 
 ## Sample 1: _SIR = -6 dB, SNR = -6 dB_
 
-![](./figures/00000/room.png)
+| Noisy Mixture | Clean Speech | Overall Noise |
+| :---: | :---: | :---: |
+| ![PNG](./figures/00053/y_noisy_mixture.png) | ![PNG](./figures/00053/x_target_speech.png) | ![PNG](./figures/00053/n_overall_noise.png) |
+| <audio controls> <source src="./audio/00053/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00053/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00053/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
 
-| Noisy Mixture | Clean Speech |
-| :---: | :---: |
-| ![00000](./figures/00000/room.png) | ![00000](./figures/00000/room.png) |
-| <audio controls> <source src="./audio/00000/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00000/x_target_speech.mp3" type="audio/mpeg"> </audio>
+<center><img src="./figures/00053/room_layout.png" width="50%"></center>
 
-## Sample 2 
-SNR, SIR
+## Sample 2: _SIR = -6 dB, SNR = +6 dB_
 
-## Sample 3
-SNR?
+| Noisy Mixture | Clean Speech | Overall Noise |
+| :---: | :---: | :---: |
+| ![PNG](./figures/00056/y_noisy_mixture.png) | ![PNG](./figures/00056/x_target_speech.png) | ![PNG](./figures/00056/n_overall_noise.png) |
+| <audio controls> <source src="./audio/00056/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00056/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00056/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+
+<center><img src="./figures/00056/room_layout.png" width="50%"></center>
+
+## Sample 3: _SIR = +6 dB, SNR = -6 dB_
+
+| Noisy Mixture | Clean Speech | Overall Noise |
+| :---: | :---: | :---: |
+| ![PNG](./figures/00536/y_noisy_mixture.png) | ![PNG](./figures/00536/x_target_speech.png) | ![PNG](./figures/00536/n_overall_noise.png) |
+| <audio controls> <source src="./audio/00536/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src00536audio/00536/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00536/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+
+<center><img src="./figures/00536/room_layout.png" width="50%"></center>
+
+## Sample 4: _SIR = +6 dB, SNR = +6 dB_
+
+| Noisy Mixture | Clean Speech | Overall Noise |
+| :---: | :---: | :---: |
+| ![PNG](./figures/00102/y_noisy_mixture.png) | ![PNG](./figures/00102/x_target_speech.png) | ![PNG](./figures/00102/n_overall_noise.png) |
+| <audio controls> <source src="./audio/00102/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00102/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00102/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+
+<center><img src="./figures/00102/room_layout.png" width="50%"></center>
