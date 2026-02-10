@@ -13,34 +13,34 @@ Here, we report signals with __2__ channels, in order for the listener to assess
 
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
-| ![PNG](./images/00053/y_noisy_mixture.png) | ![PNG](./images/00053/x_target_speech.png) | ![PNG](./images/00053/n_overall_noise.png) |
-| <audio controls> <source src="./audio/00053/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00053/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00053/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+| ![PNG](./data/00667/noisy_mixture.png) | ![PNG](./data/00667/target_speech.png) | ![PNG](./data/00667/overall_noise.png) |
+| <audio controls> <source src="./data/00667/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00667/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00667/overall_noise.mp3" type="data/mpeg"> </audio> |
 
-<center><img src="./images/00053/room_layout.png" width="50%"></center>
+<center><img src="./data/00667/room_layout.png" width="50%"></center>
 
 ## Sample 2: _SIR = -6 dB, SNR = +6 dB_
 
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
-| ![PNG](./images/00056/y_noisy_mixture.png) | ![PNG](./images/00056/x_target_speech.png) | ![PNG](./images/00056/n_overall_noise.png) |
-| <audio controls> <source src="./audio/00056/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00056/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00056/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+| ![PNG](./data/01200/noisy_mixture.png) | ![PNG](./data/01200/target_speech.png) | ![PNG](./data/01200/overall_noise.png) |
+| <audio controls> <source src="./data/01200/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/01200/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/01200/overall_noise.mp3" type="data/mpeg"> </audio> |
 
-<center><img src="./images/00056/room_layout.png" width="50%"></center>
+<center><img src="./data/01200/room_layout.png" width="50%"></center>
 
 ## Sample 3: _SIR = +6 dB, SNR = -6 dB_
 
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
-| ![PNG](./images/00536/y_noisy_mixture.png) | ![PNG](./images/00536/x_target_speech.png) | ![PNG](./images/00536/n_overall_noise.png) |
-| <audio controls> <source src="./audio/00536/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00536/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00536/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+| ![PNG](./data/00670/noisy_mixture.png) | ![PNG](./data/00670/target_speech.png) | ![PNG](./data/00670/overall_noise.png) |
+| <audio controls> <source src="./data/00670/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00670/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00670/overall_noise.mp3" type="data/mpeg"> </audio> |
 
-<center><img src="./images/00536/room_layout.png" width="50%"></center>
+<center><img src="./data/00670/room_layout.png" width="50%"></center>
 
 ## Sample 4: _SIR = +6 dB, SNR = +6 dB_
 
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
-| ![PNG](./images/00102/y_noisy_mixture.png) | ![PNG](./images/00102/x_target_speech.png) | ![PNG](./images/00102/n_overall_noise.png) |
-| <audio controls> <source src="./audio/00102/y_noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00102/x_target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/00102/n_overall_noise.mp3" type="audio/mpeg"> </audio> |
+| ![PNG](./data/00026/noisy_mixture.png) | ![PNG](./data/00026/target_speech.png) | ![PNG](./data/00026/overall_noise.png) |
+| <audio controls> <source src="./data/00102/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00102/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00102/overall_noise.mp3" type="data/mpeg"> </audio> |
 
-<center><img src="./images/00102/room_layout.png" width="50%"></center>
+<center><img src="./data/00026/room_layout.png" width="50%"></center>
