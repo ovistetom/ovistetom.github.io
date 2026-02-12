@@ -15,7 +15,7 @@ Here, we report signals with __2__ channels, in order for the listener to assess
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
 | ![PNG](./data/01087/noisy_mixture.png) | ![PNG](./data/01087/target_speech.png) | ![PNG](./data/01087/overall_noise.png) |
-| <audio controls> <source src="./data/01087/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/01087/target_speech.mp3"\> </audio> | <audio controls> <source src="./data/01087/overall_noise.mp3" type="data/mpeg"> </audio> |
+| <audio controls> <source src="./data/01087/noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/01087/target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/01087/overall_noise.mp3" type="audio/mpeg"> </audio> |
 
 <center><img src="./data/01087/room_layout.png" width="50%"></center>
 
@@ -24,7 +24,7 @@ Here, we report signals with __2__ channels, in order for the listener to assess
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
 | ![PNG](./data/00715/noisy_mixture.png) | ![PNG](./data/00715/target_speech.png) | ![PNG](./data/00715/overall_noise.png) |
-| <audio controls> <source src="./data/00715/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00715/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00715/overall_noise.mp3" type="data/mpeg"> </audio> |
+| <audio controls> <source src="./data/00715/noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/00715/target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/00715/overall_noise.mp3" type="audio/mpeg"> </audio> |
 
 <center><img src="./data/00715/room_layout.png" width="50%"></center>
 
@@ -33,7 +33,7 @@ Here, we report signals with __2__ channels, in order for the listener to assess
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
 | ![PNG](./data/00359/noisy_mixture.png) | ![PNG](./data/00359/target_speech.png) | ![PNG](./data/00359/overall_noise.png) |
-| <audio controls> <source src="./data/00359/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00359/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00359/overall_noise.mp3" type="data/mpeg"> </audio> |
+| <audio controls> <source src="./data/00359/noisy_mixture.wav" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/00359/target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/00359/overall_noise.mp3" type="audio/mpeg"> </audio> |
 
 <center><img src="./data/00359/room_layout.png" width="50%"></center>
 
@@ -42,6 +42,6 @@ Here, we report signals with __2__ channels, in order for the listener to assess
 | Noisy Mixture | Clean Speech | Overall Noise |
 | :---: | :---: | :---: |
 | ![PNG](./data/00285/noisy_mixture.png) | ![PNG](./data/00285/target_speech.png) | ![PNG](./data/00285/overall_noise.png) |
-| <audio controls> <source src="./data/00715/noisy_mixture.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00715/target_speech.mp3" type="data/mpeg"> </audio> | <audio controls> <source src="./data/00715/overall_noise.mp3" type="data/mpeg"> </audio> |
+| <audio controls> <source src="./data/00715/noisy_mixture.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/00715/target_speech.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./data/00715/overall_noise.mp3" type="audio/mpeg"> </audio> |
 
 <center><img src="./data/00285/room_layout.png" width="50%"></center>
