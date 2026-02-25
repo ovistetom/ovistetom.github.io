@@ -1,13 +1,11 @@
-# Multi-Channel Speech Enhancement Database: Mix of EARS and WHAM
-
-## Database of clean and noisy speech samples
+# Database for Multi-Channel Speech Enhancement: Mix of EARS and WHAM
 
 We present samples from __MIX-EARS-WHAM__, the database we developed to train and evaluate multi-channel speech enhancement methods.
-This database was created using the [`Python`](https://www.python.org/) programming language and the [`pyroomacoustics`](https://pyroomacoustics.readthedocs.io/) library.
+This database, comprised of approximately 40,000 pairs of clean-speech and noisy-mixture audio signals, was created using the [`Python`](https://www.python.org/) programming language and the [`pyroomacoustics`](https://pyroomacoustics.readthedocs.io/) library.
 
 We mixed clean-speech audio signals from the Expressive Anechoic Recordings of Speech ([EARS](https://sp-uhh.github.io/ears_dataset/)) dataset, and ambient-noise audio signals from the WSJ0 Hipster Ambient Mixtures ([WHAM!](http://wham.whisper.ai)) dataset.
 Signals from EARS were filtered with a biquad highpass filter (cutoff frequency 70 Hz) to remove an observed high-power, low-frequency noise.
-More information on how the mixtures are generated is available on the associated paper.
+More details on the pre-processing of EARS and on how the mixtures are generated are available on the associated paper.
 
 Here, we report signals with __2__ channels for web compatibility – in practice, we use signals with __4__ channels.
 
