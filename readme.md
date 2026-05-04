@@ -2,7 +2,7 @@
 Welcome to Tom Oviste's GitHub portfolio!
 
 ## My Projects
-Here are some of projects I worked on:
+Here are some of the projects I worked on:
 
 - [Multi-Channel Speech Enhancement Database: Mixing EARS and WHAM](./mc-mix-ears-wham/).
 - Neural Generalized Eigenvalue Decomposition Beamformer (coming soon).
