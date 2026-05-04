@@ -41,4 +41,4 @@ We present audio samples filtered by the HVSF with various multipliers applied t
 
 ## Database
 
-For this experiment, signals are generated as mixtures of speech signals from the [EARS](https://sp-uhh.github.io/ears_dataset/) and noise signals from the [WHAM!](http://wham.whisper.ai) datasets, as described [here](https://ovistetom.github.io/mix-ears-wham/).
+These example signals are mixtures of speech signals from the [EARS](https://sp-uhh.github.io/ears_dataset/) dataset and noise signals from the [WHAM!](http://wham.whisper.ai) datasets, as described [here](https://ovistetom.github.io/mix-ears-wham/).
