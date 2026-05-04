@@ -10,7 +10,7 @@ More details on the pre-processing of EARS and on how the mixtures are generated
 Our implementation of the data generation process can be found on [GitHub](https://github.com/ovistetom/mc-mix-ears-wham).
 Here, we report signals with __2__ channels for web compatibility – in practice, we use signals with __4__ channels.
 
-__Disclaimer:__ this work focuses on multi-channel signals and is __strictly independent__ from the single-channel "EARS-WHAM" dataset (section 3.1) developed by the authors [the original EARS publication](https://www.isca-archive.org/interspeech_2024/richter24_interspeech.html).
+__Disclaimer:__ this work focuses on multi-channel signals and is __strictly independent__ from the single-channel "EARS-WHAM" dataset developed by the authors in [the original EARS publication](https://www.isca-archive.org/interspeech_2024/richter24_interspeech.html).
 
 ## Sample 1: _SIR = +6 dB, SNR = +6 dB_
 
