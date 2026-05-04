@@ -1,14 +1,16 @@
 # Database for Multi-Channel Speech Enhancement: Mixing EARS and WHAM
 
-We present samples from __MIX-EARS-WHAM__, the database we developed to train and evaluate multi-channel speech enhancement methods.
+We present samples from __MC-MIX-EARS-WHAM__, the database we developed to train and evaluate multi-channel speech enhancement methods.
 This database, comprised of approximately 40,000 pairs of clean-speech and noisy-mixture audio signals, was created using the [`Python`](https://www.python.org/) programming language and the [`pyroomacoustics`](https://pyroomacoustics.readthedocs.io/) library.
 
 We mixed clean-speech audio signals from the Expressive Anechoic Recordings of Speech ([EARS](https://sp-uhh.github.io/ears_dataset/)) dataset, and ambient-noise audio signals from the WSJ0 Hipster Ambient Mixtures ([WHAM!](http://wham.whisper.ai)) dataset.
 Signals from EARS were filtered with a biquad highpass filter (cutoff frequency 70 Hz) to remove an observed high-power, low-frequency noise.
-More details on the pre-processing of EARS and on how the mixtures are generated are available on the associated paper.
+More details on the pre-processing of EARS and on how the mixtures are generated will be avaible in future publication.
 
-Our implementation of the data generation process can be found on [GitHub](https://github.com/ovistetom/mix-ears-wham).
+Our implementation of the data generation process can be found on [GitHub](https://github.com/ovistetom/mc-mix-ears-wham).
 Here, we report signals with __2__ channels for web compatibility – in practice, we use signals with __4__ channels.
+
+__Disclaimer:__ this work focuses on multi-channel signals and is __strictly independent__ from the single-channel "EARS-WHAM" dataset (section 3.1) developed by the authors [the original EARS publication](https://www.isca-archive.org/interspeech_2024/richter24_interspeech.html).
 
 ## Sample 1: _SIR = +6 dB, SNR = +6 dB_
 
