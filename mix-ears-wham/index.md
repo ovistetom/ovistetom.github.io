@@ -7,7 +7,7 @@ We mixed clean-speech audio signals from the Expressive Anechoic Recordings of S
 Signals from EARS were filtered with a biquad highpass filter (cutoff frequency 70 Hz) to remove an observed high-power, low-frequency noise.
 More details on the pre-processing of EARS and on how the mixtures are generated are available on the associated paper.
 
-Our implementation of the data generation process can be found on [GitHub](https://github.com/ovistetom/mix-ears/wham).
+Our implementation of the data generation process can be found on [GitHub](https://github.com/ovistetom/mix-ears-wham).
 Here, we report signals with __2__ channels for web compatibility – in practice, we use signals with __4__ channels.
 
 ## Sample 1: _SIR = +6 dB, SNR = +6 dB_
