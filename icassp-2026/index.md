@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This webpage is intended as a companion to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) paper, "Neural Variable Span Filters for Interpretable Speech Enhancement".
+This webpage is intended as a companion to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) paper, _Neural Variable Span Filters for Interpretable Speech Enhancement_ by T. Oviste, P. Mowlaee, J. Badajoz-Davila, J. R. Jensen and M. G. Christensen.
 
 Here, we present audio samples filtered by our proposed Hybrid Variable Span Filter (HVSF).
 Signals are filtered by the HVSF with various multipliers applied to its _μ_ parameter, to demonstrate the effect of the multiplier on the tradeoff between speech distortion and noise reduction.
@@ -38,7 +38,3 @@ Signals are filtered by the HVSF with various multipliers applied to its _μ_ pa
 | Estimate (_μ_ ⨯ 1) | ![PNG](./images/02363/filtered_mu1.png) | <audio controls> <source src="./audio/02363/filtered_mu1.mp3" type="audio/mpeg"> </audio> |
 | Estimate (_μ_ ⨯ 10) | ![PNG](./images/02363/filtered_mu10.png) | <audio controls> <source src="./audio/02363/filtered_mu10.mp3" type="audio/mpeg"> </audio> |
 | Estimate (_μ_ ⨯ 0.1) | ![PNG](./images/02363/filtered_mu01.png) | <audio controls> <source src="./audio/02363/filtered_mu01.mp3" type="audio/mpeg"> </audio> |
-
-## Database
-
-These example signals are mixtures of speech signals from the [EARS](https://sp-uhh.github.io/ears_dataset/) dataset and noise signals from the [WHAM!](http://wham.whisper.ai) dataset, as described [here](https://ovistetom.github.io/mc-mix-ears-wham/).
