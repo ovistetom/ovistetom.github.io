@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This webpage is intended as a companion to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) paper, _Neural Variable Span Filters for Interpretable Speech Enhancement_ by T. Oviste, P. Mowlaee, J. Badajoz-Davila, J. R. Jensen and M. G. Christensen.
+This webpage is intended as a companion to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) paper, [_Neural Variable Span Filters for Interpretable Mutli-Channel Speech Enhancement_](https://doi.org/10.1109/ICASSP55912.2026.11464002) by T. Oviste, P. Mowlaee, J. Badajoz-Davila, J. R. Jensen and M. G. Christensen.
 
 Here, we present audio samples filtered by our proposed Hybrid Variable Span Filter (HVSF).
 Signals are filtered by the HVSF with various multipliers applied to its _μ_ parameter, to demonstrate the effect of the multiplier on the tradeoff between speech distortion and noise reduction.
