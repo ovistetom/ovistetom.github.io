@@ -48,7 +48,7 @@ in Wireless Acoustic Sensor Networks with Packet Loss_, 2021.
 
 
 Audio is a speech signal from the ([EARS](https://sp-uhh.github.io/ears_dataset/)) dataset.  
-The signal is stereophonic: here, the left channel is used as reference, and the STO is applied to the right channel only.
+The signal is stereophonic: here, the left channel is used as reference, and packet loss is applied to the right channel only.
 
 | Ideal | With Packet Loss (rate 10%) |
 | :---: | :---: |
