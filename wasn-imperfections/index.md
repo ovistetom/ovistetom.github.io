@@ -46,10 +46,24 @@ in Wireless Acoustic Sensor Networks with Packet Loss_, 2021.
 
 ### Audio Example
 
-
 Audio is a speech signal from the ([EARS](https://sp-uhh.github.io/ears_dataset/)) dataset.  
 The signal is stereophonic: here, the left channel is used as reference, and packet loss is applied to the right channel only.
 
 | Ideal | With Packet Loss (rate 10%) |
 | :---: | :---: |
 | <audio controls> <source src="./audio/69_stereo.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/69_pl.mp3" type="audio/mpeg"> </audio> |
+
+<!--------------------------------------->
+## Codec G.722
+
+### Waveform Example
+
+![PNG](./images/g722.png)
+
+The G.722 codec naturally introduces sample delay, to be compensated for by time-alignment.
+
+### Audio Example
+
+| Ideal | With Codec |
+| :---: | :---: |
+| <audio controls> <source src="./audio/69_stereo.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="./audio/69_codec.mp3" type="audio/mpeg"> </audio> |
