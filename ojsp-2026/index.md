@@ -2,7 +2,7 @@
 ## IEEE Open Journal of Signal Processing (OJSP) 2026
 
 The present webpage is intended as a companion to the 
-IEEE OJSP 2026 paper, [_Neural GEVD Estimation with MWF Beamforming for Controllable Multichannel Speech Enhancement_]() by T. Oviste, ... and M. G. Christensen.
+IEEE OJSP 2026 paper, [_Neural GEVD Estimation with MWF Beamforming for Controllable Multichannel Speech Enhancement_]() by T. Oviste, P. Mowlaee, J. Badajoz-Davila, Z. Zhao, J. R. Jensen, and M. G. Christensen.
 
 Here, we present audio samples filtered by four hybrid architectures for multichannel speech enhancement, namely the CHOL+MVDR, CHOL+MWF, GEVD+MVDR and GEVD+MWF architectures studied in the publication, as represented in the figure below.
 Additionally, for +MWF models, we present audio samples filtered with different post-training values for the tradeoff parameter $\mu$.
